@@ -43,4 +43,4 @@ This is a simple 2-player Pong-style game built using Python's `turtle` graphics
 3. Run the script using:
 
 ```bash
-python game.py
+python ping_pong.py
